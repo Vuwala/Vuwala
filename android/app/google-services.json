@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "137874268506",
+    "project_id": "vuwala-user",
+    "storage_bucket": "vuwala-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137874268506:android:9d8cc70636ca46208d5363",
+        "android_client_info": {
+          "package_name": "com.example.vuwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137874268506-3o0of8d8sd9epj5hbl3paegoj62oa0gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vuwala",
+            "certificate_hash": "174b4484d6532060d454c668cf0927f187557b03"
+          }
+        },
+        {
+          "client_id": "137874268506-s5alchggrl2p6qkmu2pqfkpha5k9sda4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUf6Gm8B0sgc_y1CjH0-q7SnCPT_q1g_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137874268506-s5alchggrl2p6qkmu2pqfkpha5k9sda4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137874268506-pegegnm7m1qbodv3mbb93h9pd17rarb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vuwala.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137874268506:android:086a4c3a400fe0618d5363",
+        "android_client_info": {
+          "package_name": "com.vuwala.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137874268506-quu28uao1c26293v82h9hr2dne4pbr20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vuwala.userapp",
+            "certificate_hash": "9ed62ae82387fa58c9841c712bf4f548440dba9f"
+          }
+        },
+        {
+          "client_id": "137874268506-s5alchggrl2p6qkmu2pqfkpha5k9sda4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUf6Gm8B0sgc_y1CjH0-q7SnCPT_q1g_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137874268506-s5alchggrl2p6qkmu2pqfkpha5k9sda4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137874268506-pegegnm7m1qbodv3mbb93h9pd17rarb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vuwala.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
